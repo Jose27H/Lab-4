@@ -23,6 +23,10 @@ mark for **each** lab you miss in that period. Miss 1 lab and the most you can
 score is 1/2 of the mark; miss 2 and the most you can score is 0.
 The final assessment uses the green robot, the **Hiwonder JetRover**.
 
+**Punctuality (final assessment).** Arriving late puts your group members at a
+disadvantage. For the final assessment, arriving **15 minutes or more late** to
+the lab will be counted as an absence.
+
 > **There are no exceptions for missed attendance.** This is strict because
 > from now on you work in groups, and when you miss a lab your group members
 > lose your help.
@@ -53,7 +57,14 @@ A lap counts when your robot goes around the track and crosses one of the
 **white lines** on it. Our track is not a perfect circuit, so a lap does not
 have to finish exactly where it started.
 
-A TA must watch **both** laps to give you the mark.
+### Marking
+
+You get **two tries** at being marked. To request a try, ask a TA. The TA must
+watch **both** laps for each try. **Your best mark is the one that counts.**
+
+If the robot goes off course, crashes, or needs any input from you during a
+run, you will **gradually lose marks**. So make sure you are confident your
+robot can complete two laps fully on its own **before** you ask for marking.
 
 ### 💡 Hint: the line sensor is tuneable
 
